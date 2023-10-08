@@ -19,7 +19,8 @@ namespace q3s1
             else
                 foreach (char C in NumberFiveDigits)
                 {
-                    Console.Write($"{C}   ");
+                    Console.WriteLine($"{C}   ");
+
                 }
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\bin\Debug\mystery.exe.config
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\bin\Debug\mystery.exe
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\bin\Debug\mystery.pdb
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\obj\Debug\mystery.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\obj\Debug\mystery.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\obj\Debug\mystery.exe
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\mystery\obj\Debug\mystery.pdb
