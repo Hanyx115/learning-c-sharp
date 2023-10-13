@@ -1,0 +1,7 @@
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\obj\Debug\correct_errors.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\obj\Debug\correct_errors.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\bin\Debug\correct_errors.exe.config
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\bin\Debug\correct_errors.exe
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\bin\Debug\correct_errors.pdb
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\obj\Debug\correct_errors.exe
+C:\Users\mohamed\OneDrive\Desktop\learning-c-sharp\c#1\sheets assignaments\sheet 1\correct_errors\obj\Debug\correct_errors.pdb
