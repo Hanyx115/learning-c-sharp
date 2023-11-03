@@ -1,0 +1,7 @@
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\bin\Debug\q2s3.exe.config
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\bin\Debug\q2s3.exe
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\bin\Debug\q2s3.pdb
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\obj\Debug\q2s3.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\obj\Debug\q2s3.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\obj\Debug\q2s3.exe
+C:\Users\mohamed\OneDrive\Desktop\sheet3\q2s3\obj\Debug\q2s3.pdb
