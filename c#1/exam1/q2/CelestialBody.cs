@@ -37,8 +37,8 @@ namespace q2
             children1 = value;
         }
 
-        public static void AddChild(string children)
-        { string child1 = Console.ReadLine();
+        public static void AddChild(string child1)
+        { 
 
 
             if (children.Length == 5)
@@ -48,23 +48,14 @@ namespace q2
             }
             else
             {
-                children += child1;
+                hildren += child1;
             }
 
         }
         public string  Getchildren(string Children1)
         {
-            int i = 0;
-            for (i = 0; i < children.Length; i++)
-            {
-                if (children[i] ==null )
-                {
-                    children[i] = Children1;
-                }
-                
-            }
+            return string.Join(", ", children);
 
-            return Children;
         }
 
 
