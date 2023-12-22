@@ -1,0 +1,7 @@
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\obj\Debug\q2s6.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\obj\Debug\q2s6.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\bin\Debug\q2s6.exe.config
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\bin\Debug\q2s6.exe
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\bin\Debug\q2s6.pdb
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\obj\Debug\q2s6.exe
+C:\Users\mohamed\OneDrive\Desktop\sheet 6\q2s6\obj\Debug\q2s6.pdb
