@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3CC1A532-6244-427C-9415-D28B44CB1450}</ProjectGuid>
+    <ProjectGuid>{FBBA7876-72F6-486B-B60C-CF7AB7672F36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>q1s4</RootNamespace>
-    <AssemblyName>q1s4</AssemblyName>
+    <RootNamespace>q3s4</RootNamespace>
+    <AssemblyName>q3s4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
