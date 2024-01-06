@@ -1,0 +1,17 @@
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\bin\Debug\Electronics_store.exe.config
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\bin\Debug\Electronics_store.exe
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\bin\Debug\Electronics_store.pdb
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.csproj.AssemblyReference.cache
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.Form1.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.Properties.Resources.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.csproj.GenerateResource.cache
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.exe
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.pdb
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.about_us.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.Components.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\bin\Debug\asm.mdf
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\bin\Debug\asm_log.ldf
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.checkout.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.Cash.resources
+C:\Users\mohamed\OneDrive\Desktop\Electronics_store\Electronics_store\obj\Debug\Electronics_store.visa.resources
